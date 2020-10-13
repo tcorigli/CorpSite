@@ -52,15 +52,6 @@
                                         <li>
                                             <a href="#">Secret Mountain</a>
                                         </li>
-                                          <li>
-                                            <a href="#">Laguna Beach</a>
-                                        </li>
-                                          <li>
-                                            <a href="#">San Diego, CA</a>
-                                        </li>
-                                            <li>
-                                            <a href="#">Love Land</a>
-                                        </li>
                                     </ul>
                                 </li>
                             </ul>

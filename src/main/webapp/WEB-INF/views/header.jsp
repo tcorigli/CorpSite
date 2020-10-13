@@ -55,6 +55,9 @@
                                           <li>
                                             <a href="#">Laguna Beach</a>
                                         </li>
+                                             <li>
+                                            <a href="#">San Diego, CA</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>

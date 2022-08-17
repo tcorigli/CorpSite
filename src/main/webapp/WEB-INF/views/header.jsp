@@ -52,8 +52,11 @@
                                         <li>
                                             <a href="#">Secret Mountain</a>
                                         </li>
-                                                <li>
+                                        <li>
                                             <a href="#">San Diego</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Rome</a>
                                         </li>
                                     </ul>
                                 </li>
